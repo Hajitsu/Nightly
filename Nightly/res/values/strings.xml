@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">Nightly</string>
+    <string name="title_activity_main">شبانه</string>
+    <string name="reg_lbl_register">ثبت نام</string>
+    <string name="reg_lbl_email">ایمیل</string>
+    <string name="reg_lbl_password">گذرواژه</string>
+    <string name="reg_lbl_name">نام</string>
+    <string name="reg_btn_register">ثبت نام</string>
+    <string name="login_lbl_login">ورود</string>
+    <string name="login_lbl_email">ایمیل</string>
+    <string name="login_lbl_password">گذرواژه</string>
+    <string name="login_btn_login">ورود</string>
+    <string name="reg_waiting_message">در حال ثبت نام</string>
+    <string name="reg_fields_require">لطفا فیلدها را کامل کنید</string>
+    <string name="reg_correct_email">لطفا یک ایمیل معتبر وارد کنید</string>
+    <string name="allNotes_Title">لیست شبانه ها</string>
+    <string name="note_add_menu">ذخیره</string>
+    <string name="note_delete_menu">حذف</string>
+    <string name="note_save_successfuly">شبانه ذخیره شد</string>
+    <string name="note_delete_successfuly">شبانه حذف شد</string>
+    <string name="note_update_note_successfuly">شبانه ویرایش شد</string>
+    <string name="not_connected_to_internet">لطفا به اینترنت متصل شوید</string>
+    <string name="login_btn_exit">خروج</string>
+    <string name="main_new_note">شبانه جدید</string>
+    <string name="main_all_notes">شبانه های من</string>
+    <string name="all_note_refresh_list">بارگذاری دوباره</string>
+    <string name="main_btn_about">درباره نرم افزار</string>
+    <string name="main_btn_send_email">ارتباط مستقیم با توسعه دهنده</string>
+    <string name="main_btn_site">سایت توسعه دهنده</string>
+    <string name="main_btn_exit">خروج</string>
+    <string name="note_length_short">شبانه انقد کم که شبانه نیست</string>
+    <string name="welcome_to_nightly">به شبانه خوش آمدید</string>
+    <color name="toast_error">#C60000</color>
+    <color name="toast_attention">#FF6A00</color>
+    <color name="toast_successful">#00A510</color>
+
+</resources>
